@@ -11,7 +11,7 @@ namespace Test_console_CNO
         static void Main(string[] args)
         {
             /*
-             * NAAM: 
+             * NAAM: Willekens Stijn
             */
 
 
